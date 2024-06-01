@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @UDAIBHAT
-- 👀 I’m interested in ...COMPUTER SCIENCE
-- 🌱 I’m currently learning ...C/C++ LANGUAGE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...THROUGH EMAIL:- udaibhat181@gmail.com
-
-<!---
-UDAIBHAT/UDAIBHAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, I'm Udai Bhat , a Final - year student at L.D College of Engineering .As a computer engineering enthusiast, I possess a diverse skill set encompassing a range of cutting-edge technologies. From proficiency in programming languages such as Python, Java, and C, to expertise in software development methodologies like Agile and Scrum, I am well-equipped to tackle complex challenges in the digital landscape. Additionally, my experience with web development coupled with a solid understanding of databases such as SQL .Moreover, I have hands-on experience with CISCO % Networking skills.
