@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Udai Bhat, I'm a Developer with HUGE interest in COMPUTER WAVY.</h2>
+<h2 align="left">Hi 👋! My name is Udai Bhat, I'm a Developer with HUGE interest in COMPUTER WAVE.</h2>
 
 ###
 
