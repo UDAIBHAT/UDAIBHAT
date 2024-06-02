@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Beautiful Snake Animation
 
 on:
   schedule:
@@ -10,11 +10,11 @@ on:
       - master
 
 jobs:
-  generate_snake_animation:
+  generate_beautiful_snake_animation:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -24,7 +24,16 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: dist/snake.svg?palette=random&hues=15&chroma=0.8&colorspace=hsl
+
+      - name: Optimize SVG
+        uses: schneegans/dsvg@v1
+        with:
+          input: dist/snake.svg
+          output: dist/snake_optimized.svg
+
+      - name: Add timestamp to SVG
+        run: echo "$(date)" >> dist/snake_optimized.svg
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
