@@ -72,11 +72,17 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/UDAIBHAT/UDAIBHAT/output/snake.svg" alt="Snake animation" />
-
-
 ## CI/CD Pipeline Status
 
-![Build Status](https://github.com/UDAIBHAT/UDAIBHAT/actions/workflows/snake.yml/badge.svg)
+![Generate snake animation](https://github.com/UDAIBHAT/UDAIBHAT/actions/workflows/snake.yml/badge.svg)
 
 This repository uses GitHub Actions for Continuous Integration. You can find the workflow file [here](https://github.com/UDAIBHAT/UDAIBHAT/actions/workflows/snake.yml).
+
+## Snake Animation
+
+The snake animation below is generated every 12 hours and showcases the contributions to the repository.
+
+![Snake animation](https://github.com/UDAIBHAT/UDAIBHAT/blob/output/snake.svg)
+
+
 
