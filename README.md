@@ -74,5 +74,5 @@
 <img src="https://raw.githubusercontent.com/UDAIBHAT/UDAIBHAT/output/snake.svg" alt="Snake animation" />
 
 ###
-![example workflow]()
+![example workflow]([![Generate snake animation](https://github.com/UDAIBHAT/UDAIBHAT/actions/workflows/snake.yml/badge.svg)](https://github.com/UDAIBHAT/UDAIBHAT/actions/workflows/snake.yml))
 
