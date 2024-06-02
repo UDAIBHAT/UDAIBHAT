@@ -73,6 +73,10 @@
 
 <img src="https://raw.githubusercontent.com/UDAIBHAT/UDAIBHAT/output/snake.svg" alt="Snake animation" />
 
-###
-![example workflow]([![Generate snake animation](https://github.com/UDAIBHAT/UDAIBHAT/actions/workflows/snake.yml/badge.svg)](https://github.com/UDAIBHAT/UDAIBHAT/actions/workflows/snake.yml))
+
+## CI/CD Pipeline Status
+
+![Build Status](https://github.com/UDAIBHAT/UDAIBHAT/actions/workflows/snake.yml/badge.svg)
+
+This repository uses GitHub Actions for Continuous Integration. You can find the workflow file [here](https://github.com/UDAIBHAT/UDAIBHAT/actions/workflows/snake.yml).
 
