@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **WEB dev_projects**
+- 🔭 I’m currently working on **Face Recognition projects**
 
 - 🌱 I’m currently learning **REACT**
 
